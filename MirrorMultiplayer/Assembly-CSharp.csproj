@@ -61,6 +61,7 @@
     <Compile Include="Assets\Scripts\UI\WorldToScreenFollow.cs" />
     <Compile Include="Assets\Scripts\HealthSystems\Modifiers.cs" />
     <Compile Include="Assets\Scripts\HealthSystems\HealthBar.cs" />
+    <Compile Include="Assets\Scripts\Multiplayer\MyFriendBars.cs" />
     <Compile Include="Assets\Scripts\HealthSystems\Defender.cs" />
     <Compile Include="Assets\Scripts\FaceCamera.cs" />
     <Compile Include="Assets\Scripts\IExist.cs" />
@@ -68,6 +69,7 @@
     <Compile Include="Assets\Scripts\Stats.cs" />
     <Compile Include="Assets\Scripts\Player\CharacterController2D.cs" />
     <Compile Include="Assets\Scripts\EasyStruct\ClassObjects.cs" />
+    <Compile Include="Assets\Scripts\Multiplayer\MyPlayerBar.cs" />
     <Compile Include="Assets\Scripts\HealthSystems\ModifiersList.cs" />
     <Compile Include="Assets\Scripts\EasyStruct\AdaptiveValueClass.cs" />
     <Compile Include="Assets\Scripts\EasyStruct\Commander.cs" />
@@ -84,6 +86,7 @@
     <Compile Include="Assets\Scripts\SoundDynamics\SoundGeneralDynamics.cs" />
     <Compile Include="Assets\Scripts\EasyStruct\Timer.cs" />
     <Compile Include="Assets\Scripts\AI\Sentient.cs" />
+    <Compile Include="Assets\MultiplayerHealthBarRef.cs" />
     <Compile Include="Assets\Scripts\ScanConstructors\Clip.cs" />
     <Compile Include="Assets\Scripts\Building\GrabBuildID.cs" />
     <Compile Include="Assets\Scripts\Multiplayer\NetworkObjectCreateAndDestroyer.cs" />
@@ -96,9 +99,6 @@
     <Compile Include="Assets\Scripts\EasyStruct\ZoneCall.cs" />
     <Compile Include="Assets\Scripts\SoundDynamics\SoundGeneralDynamicsMultiplayerPhoton.cs" />
     <Compile Include="Assets\Scripts\AI\IndividialAIStates\EnemyGoon1.cs" />
-    <Compile Include="Assets\Scripts\Multiplayer\MyPlayerBar.cs" />
-    <Compile Include="Assets\Scripts\Multiplayer\MyFriendBars.cs" />
-    <Compile Include="Assets\MultiplayerHealthBarRef.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Mirror\Plugins\Mono.Cecil\Mono.CecilX.dll" />
